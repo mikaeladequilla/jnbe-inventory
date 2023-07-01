@@ -1,0 +1,1 @@
+# jnbe-inventory
